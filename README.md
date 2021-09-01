@@ -25,4 +25,4 @@
 - read, create, update, delete
 
 ## credit to
-(Link to YouTube)[https://www.youtube.com/watch?v=_1xa8Bsho6A&t=1367s]
+[Link to YouTube](https://www.youtube.com/watch?v=_1xa8Bsho6A&t=1367s)
