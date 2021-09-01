@@ -1,4 +1,10 @@
 # CRUD Nodejs tanpa dependencies framework sama sekali
+- Menggunakan nodemon pada devDependencies untuk live server
+- DB json static locally
+- CRUD-PURE-CONROLLER
+  |-controllers
+  |-data
+  |-models
 
 ## keyword
 - find
